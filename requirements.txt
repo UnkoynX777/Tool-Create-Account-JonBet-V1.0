@@ -1,0 +1,6 @@
+requests
+selenium
+colorama
+argparse
+undetected_chromedriver
+openpyxl

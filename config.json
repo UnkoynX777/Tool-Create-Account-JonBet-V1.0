@@ -1,0 +1,10 @@
+{
+    "AdsPower": {
+        "proxy_soft": "luminati",
+        "proxy_type": "http",
+        "groupId": "",
+        "urlLocal": "http://local.adspower.net:50325",
+        "apiKey": "",
+        "linkJonbet": ""
+    }
+}
