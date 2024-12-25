@@ -1,4 +1,4 @@
-# Automatizador de Criação de Conta no Cassino JonBet
+# Automatizador de Criação de Conta no Cassino JonBet V1.0
 
 Este é um automatizador de criação de contas no cassino **JonBet**, utilizando **Adspower** e **Selenium**. O projeto foi desenvolvido em **JavaScript** e **Python**, e possui todas as proteções para evitar a detecção e garantir a segurança durante o processo de automação.
 
