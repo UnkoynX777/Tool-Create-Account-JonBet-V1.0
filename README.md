@@ -24,7 +24,7 @@ Clone o repositório para o seu computador:
 
 ```bash
 git clone https://github.com/UnkoynX777/Tool-Create-Account-JonBet-V1.0.git
-cd repository-name
+cd Tool-Create-Account-JonBet-V1.0
 ```
 
 ### 2. Instalando Dependências
